@@ -1,4 +1,4 @@
-n=int(input())
-h=n//60
-k=n%60
-print h,k
+n8=int(input())
+hz=n8//60
+kl=n8%60
+print hz,kl
